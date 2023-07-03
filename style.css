@@ -1,0 +1,78 @@
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+    background-size: cover;
+    /* opacity: 0.5; */
+  }
+
+
+.heading{
+    color: rgb(211, 211, 236);
+    /* text-align: center; */
+    padding-left: 300px;
+}
+.gmail{
+    color: rgb(235, 225, 225);
+    padding-left: 300px;
+    /* text-align: center; */
+}
+body{
+    margin: 10px;
+    padding: 5px;
+    background-image: url(images/1267556.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+    color: aliceblue;
+}
+.form-text{
+    color: aliceblue;
+}
+form{
+width: 40vw;
+}
+.form-label{
+    color: red;
+}
+
+.navbar{
+    padding: 0
+}
+.container{
+    color: aliceblue;
+}
+
+.bg-light {
+    --bs-bg-opacity: 0;
+}
+.email{
+    color: black;
+}
+
+.content{
+    position: fixed;
+    z-index: 10;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: rgb(230 232 234 / 75%)!important;
+}
+
+
