@@ -100,3 +100,17 @@ width: 40vw;
  .counter-box p{
  text-align: center;
  }
+.card{
+    margin: 2vw;
+}
+.card-text{
+    color: #c3c3c3;
+}
+.discount-off{
+    padding-left: 4vw;
+    color: rgb(36 211 251);
+}
+.old-price{
+    text-decoration: line-through;
+    color: rgba(255, 0, 0, 0.716);
+}
